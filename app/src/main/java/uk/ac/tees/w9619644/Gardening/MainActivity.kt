@@ -42,5 +42,5 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     GardeningTheme {
         Greeting("Android")
-    }
+     }
 }
